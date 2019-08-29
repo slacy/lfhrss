@@ -1,0 +1,656 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Live From Here (Unofficial Full Episode Feed)</title>
+    <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
+    <description>Live From Here (Unofficial Full Episode Feed)</description>
+    <atom:link href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh_450.png</url>
+      <title>Live From Here (Unofficial Full Episode Feed)</title>
+      <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
+    </image>
+    <lastBuildDate>Thu, 29 Aug 2019 22:04:37 +0000</lastBuildDate>
+    <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Rebroadcast: The Head and The Heart, Esperanza Spalding, Jamie Lee, Nora McInerny</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: The Head and The Heart, Esperanza Spalding, Jamie Lee, Nora McInerny</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/08/24/lfh_20190824.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/08/24/lfh_20190824.mp3" length="114243768" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rebroadcast: Guest host Jon Batiste with Emily King, Nick Waterhouse &amp; Jackie Kashian</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: Guest host Jon Batiste with Emily King, Nick Waterhouse &amp; Jackie Kashian</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/08/17/lfh_20190817.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/08/17/lfh_20190817.mp3" length="114243772" type="audio/mpeg"/>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rebroadcast: Béla Fleck &amp; Edgar Meyer, Julie Fowlis, Maeve Higgins, Aoife O'Donovan, Paul Muldoon</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: Béla Fleck &amp; Edgar Meyer, Julie Fowlis, Maeve Higgins, Aoife O'Donovan, Paul Muldoon</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/08/10/lfh_20190810.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/08/10/lfh_20190810.mp3" length="114243785" type="audio/mpeg"/>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broken Social Scene, Vijay Iyer Trio &amp; Dave Hill</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Broken Social Scene, Vijay Iyer Trio &amp; Dave Hill</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/08/03/lfh_20190803.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/08/03/lfh_20190803.mp3" length="114243735" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Del McCoury Band, Julien Baker &amp; Nate Bargatze</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / The Del McCoury Band, Julien Baker &amp; Nate Bargatze</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/07/27/lfh_20190727.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/07/27/lfh_20190727.mp3" length="114249588" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behind-the-Scenes Compilation: Punch Brothers, Aoife O'Donovan, Tom Papa, Greg Hess</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Behind-the-Scenes Compilation: Punch Brothers, Aoife O'Donovan, Tom Papa, Greg Hess</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/07/20/lfh_20190720.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/07/20/lfh_20190720.mp3" length="114243770" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jason Isbell, Eighth Blackbird, Kurt Braunohler</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Jason Isbell, Eighth Blackbird, Kurt Braunohler</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/07/13/lfh_20190713.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/07/13/lfh_20190713.mp3" length="114243734" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Death Cab for Cutie, Tank and the Bangas, Nore Davis</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Death Cab for Cutie, Tank and the Bangas, Nore Davis</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/07/06/lfh_20190706.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/07/06/lfh_20190706.mp3" length="114243739" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warmups &amp; Encores Compilation: Vulfpeck, Rachael Price, Nickel Creek, and more</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Warmups &amp; Encores Compilation: Vulfpeck, Rachael Price, Nickel Creek, and more</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/06/29/lfh_20190629.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/06/29/lfh_20190629.mp3" length="114243765" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>St. Paul &amp; The Broken Bones, I'm With Her, Punch Brothers, Kirk Fox</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / St. Paul &amp; The Broken Bones, I'm With Her, Punch Brothers, Kirk Fox</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/06/22/lfh_20190622.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/06/22/lfh_20190622.mp3" length="114245008" type="audio/mpeg"/>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ben Folds, I'm With Her, Tig Notaro</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Ben Folds, I'm With Her, Tig Notaro</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/06/15/lfh_20190615.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/06/15/lfh_20190615.mp3" length="114227839" type="audio/mpeg"/>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bruce Hornsby, The Milk Carton Kids, Mike Yard, Sara Watkins</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Bruce Hornsby, The Milk Carton Kids, Mike Yard, Sara Watkins</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/06/08/lfh_20190608.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/06/08/lfh_20190608.mp3" length="114255868" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guster, Adia Victoria, Matt Braunger</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Guster, Adia Victoria, Matt Braunger</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/06/01/lfh_20190601.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/06/01/lfh_20190601.mp3" length="114228258" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anais Mitchell, St. Louis Symphony Orchestra, Ian Edwards</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Anais Mitchell, St. Louis Symphony Orchestra, Ian Edwards</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/05/25/lfh_20190525.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/05/25/lfh_20190525.mp3" length="114250013" type="audio/mpeg"/>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My Brightest Diamond, Mandolin Orange, Judy Gold [rebroadcast]</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / My Brightest Diamond, Mandolin Orange, Judy Gold [rebroadcast]</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/05/18/lfh_20190518.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/05/18/lfh_20190518.mp3" length="114243749" type="audio/mpeg"/>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jeff Tweedy, Diana Gordon, Todd Barry [rebroadcast]</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Jeff Tweedy, Diana Gordon, Todd Barry [rebroadcast]</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/05/11/lfh_20190511.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/05/11/lfh_20190511.mp3" length="114243738" type="audio/mpeg"/>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The War and Treaty, Gabriel Kahane, Negin Farsad [rebroadcast]</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / The War and Treaty, Gabriel Kahane, Negin Farsad [rebroadcast]</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/05/04/lfh_20190504.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/05/04/lfh_20190504.mp3" length="114262975" type="audio/mpeg"/>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Del McCoury Band, Julien Baker, Nate Bargatze, &amp; Sarah Jarosz</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / The Del McCoury Band, Julien Baker, Nate Bargatze, &amp; Sarah Jarosz</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/04/27/lfh_20190427.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/04/27/lfh_20190427.mp3" length="114260052" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Josh Ritter, Cecile McLorin Salvant, Mike Lawrence, Jeff Daniels, Rebecca Naomi Jones and Damon Daunno</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Josh Ritter, Cecile McLorin Salvant, Mike Lawrence, Jeff Daniels, Rebecca Naomi Jones and Damon Daunno</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/04/20/lfh_20190420.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/04/20/lfh_20190420.mp3" length="114260925" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sara Bareilles, The Milk Carton Kids, Aparna Nancherla</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Sara Bareilles, The Milk Carton Kids, Aparna Nancherla</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/04/13/lfh_20190413.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/04/13/lfh_20190413.mp3" length="114248338" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Out In America - April 6, 2019</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Out In America - April 6, 2019</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/04/08/lfh_20190408.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/04/08/lfh_20190408.mp3" length="6602927" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Head and The Heart, Esperanza Spalding, Jamie Lee, Nora McInerny</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / The Head and The Heart, Esperanza Spalding, Jamie Lee, Nora McInerny</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/04/06/lfh_20190406.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/04/06/lfh_20190406.mp3" length="114229544" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dirty Projectors, Anna &amp; Elizabeth, The Sklar Brothers</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Dirty Projectors, Anna &amp; Elizabeth, The Sklar Brothers</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/03/30/lfh_20190330.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/03/30/lfh_20190330.mp3" length="114243741" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lindsey Buckingham, Hurray for the Riff Raff &amp; Erin Foley</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Lindsey Buckingham, Hurray for the Riff Raff &amp; Erin Foley</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/03/23/lfh_20190323.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/03/23/lfh_20190323.mp3" length="114247505" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guest host Jon Batiste with Emily King, Nick Waterhouse &amp; Jackie Kashian</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Guest host Jon Batiste with Emily King, Nick Waterhouse &amp; Jackie Kashian</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/03/16/lfh_20190316.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/03/16/lfh_20190316.mp3" length="114242923" type="audio/mpeg"/>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Béla Fleck, Edgar Meyer, Julie Fowlis, Maeve Higgins, Paul Muldoon, Aoife O'Donovan</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Béla Fleck, Edgar Meyer, Julie Fowlis, Maeve Higgins, Paul Muldoon, Aoife O'Donovan</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/03/09/lfh_20190309.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/03/09/lfh_20190309.mp3" length="114253384" type="audio/mpeg"/>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broken Social Scene, Vijay Iyer Trio, Dave Hill</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Broken Social Scene, Vijay Iyer Trio, Dave Hill</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/03/02/lfh_20190302.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/03/02/lfh_20190302.mp3" length="114250839" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lord Huron, Amanda Palmer, Mike Yard</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Lord Huron, Amanda Palmer, Mike Yard</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/02/23/lfh_20190223.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/02/23/lfh_20190223.mp3" length="114254172" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ibeyi, Dr. Dog &amp; Dan Naturman</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Ibeyi, Dr. Dog &amp; Dan Naturman</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/02/16/lfh_20190216.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/02/16/lfh_20190216.mp3" length="114243716" type="audio/mpeg"/>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Prine, Sylvan Esso &amp; Rory Scovel</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / John Prine, Sylvan Esso &amp; Rory Scovel</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/02/09/lfh_20190209.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/02/09/lfh_20190209.mp3" length="114243724" type="audio/mpeg"/>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Andrew Bird, Jenny Lewis &amp; Sarah Silverman</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Andrew Bird, Jenny Lewis &amp; Sarah Silverman</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/02/02/lfh_20190202.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/02/02/lfh_20190202.mp3" length="114244565" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - January 26, 2019</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - January 26, 2019</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/01/26/lfh_20190126.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/01/26/lfh_20190126.mp3" length="114243720" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Death Cab for Cutie, Tank and The Bangas &amp; Nore Davis</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Death Cab for Cutie, Tank and The Bangas &amp; Nore Davis</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/01/19/lfh_20190119.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/01/19/lfh_20190119.mp3" length="114246248" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mandolin Orange, My Brightest Diamond &amp; Judy Gold</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Mandolin Orange, My Brightest Diamond &amp; Judy Gold</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/01/12/lfh_20190112.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/01/12/lfh_20190112.mp3" length="114244154" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I'm With Her, Eugene Izotov and the San Francisco Conservatory of Music, and Jenny Zigrino</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / I'm With Her, Eugene Izotov and the San Francisco Conservatory of Music, and Jenny Zigrino</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/01/05/lfh_20190105.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/01/05/lfh_20190105.mp3" length="114243777" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2018 Highlights with Lindsey Buckingham, Rachael Price, Snarky Puppy, Maggie Rogers, and more</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / 2018 Highlights with Lindsey Buckingham, Rachael Price, Snarky Puppy, Maggie Rogers, and more</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/12/29/lfh_20181229.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/12/29/lfh_20181229.mp3" length="114255483" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rosanne Cash,  The Knights, Jim Breuer</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Rosanne Cash,  The Knights, Jim Breuer</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/12/22/lfh_20181222.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/12/22/lfh_20181222.mp3" length="114249158" type="audio/mpeg"/>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - December 15, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - December 15, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/12/15/lfh_20181215.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/12/15/lfh_20181215.mp3" length="114257513" type="audio/mpeg"/>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - December  8, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - December  8, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/12/08/lfh_20181208.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/12/08/lfh_20181208.mp3" length="114253334" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cat Power, Jacob Collier, Matteo Lane</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Cat Power, Jacob Collier, Matteo Lane</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/12/01/lfh_20181201.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/12/01/lfh_20181201.mp3" length="114229513" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compilation Show: Kacey Musgraves, John Prine, Cory Henry, and More</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Compilation Show: Kacey Musgraves, John Prine, Cory Henry, and More</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/11/25/lfh_20181125.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/11/25/lfh_20181125.mp3" length="114499545" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compilation Show: Kacey Musgraves, John Prine, Cory Henry and More</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Compilation Show: Kacey Musgraves, John Prine, Cory Henry and More</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/11/24/lfh_20181124.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/11/24/lfh_20181124.mp3" length="114247096" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 17, 2018: Lake Street Dive, Punch Brothers, Emanuel Ax, Gary Gulman</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / November 17, 2018: Lake Street Dive, Punch Brothers, Emanuel Ax, Gary Gulman</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/11/17/lfh_20181117.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/11/17/lfh_20181117.mp3" length="114493702" type="audio/mpeg"/>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - November 11, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - November 11, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/11/11/lfh_20181111.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/11/11/lfh_20181111.mp3" length="2930741" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 10, 2018: St. Paul &amp; the Broken Bones, I'm With Her, Punch Brothers, Kirk Fox</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / November 10, 2018: St. Paul &amp; the Broken Bones, I'm With Her, Punch Brothers, Kirk Fox</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/11/10/lfh_20181110.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/11/10/lfh_20181110.mp3" length="114495384" type="audio/mpeg"/>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 3, 2018: Ben Folds, Wye Oak, Dave Hill</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / November 3, 2018: Ben Folds, Wye Oak, Dave Hill</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/11/04/lfh_20181104.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/11/04/lfh_20181104.mp3" length="114499107" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 3, 2018: Ben Folds, Wye Oak, Dave Hill</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / November 3, 2018: Ben Folds, Wye Oak, Dave Hill</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/11/03/lfh_20181103.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/11/03/lfh_20181103.mp3" length="114243734" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 27, 2018: Jeff Tweedy, Diana Gordon, Todd Barry</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / October 27, 2018: Jeff Tweedy, Diana Gordon, Todd Barry</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/10/27/lfh_20181027.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/10/27/lfh_20181027.mp3" length="114239144" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 20, 2018: The War and Treaty, Gabriel Kahane, Negin Farsad</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / October 20, 2018: The War and Treaty, Gabriel Kahane, Negin Farsad</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/10/20/lfh_20181020.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/10/20/lfh_20181020.mp3" length="114232886" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 13, 2018: Dirty Projectors, Anna &amp; Elizabeth, The Sklar Brothers</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / October 13, 2018: Dirty Projectors, Anna &amp; Elizabeth, The Sklar Brothers</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/10/13/lfh_20181013.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/10/13/lfh_20181013.mp3" length="114233310" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 6, 2018: Lindsey Buckingham, Hurray for the Riff Raff, Erin Foley</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / October 6, 2018: Lindsey Buckingham, Hurray for the Riff Raff, Erin Foley</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/10/06/lfh_20181006.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/10/06/lfh_20181006.mp3" length="114256717" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - September 29, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - September 29, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/09/30/lfh_20180930.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/09/30/lfh_20180930.mp3" length="114491990" type="audio/mpeg"/>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - September 29, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - September 29, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/09/29/lfh_20180929.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/09/29/lfh_20180929.mp3" length="114243722" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - September 22, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - September 22, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/09/23/lfh_20180923.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/09/23/lfh_20180923.mp3" length="114484048" type="audio/mpeg"/>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - September 22, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - September 22, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/09/22/lfh_20180922.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/09/22/lfh_20180922.mp3" length="114244140" type="audio/mpeg"/>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - September 15, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - September 15, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/09/15/lfh_20180915.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/09/15/lfh_20180915.mp3" length="114243722" type="audio/mpeg"/>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - September  8, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - September  8, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/09/08/lfh_20180908.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/09/08/lfh_20180908.mp3" length="114251245" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - September  1, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - September  1, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/09/01/lfh_20180901.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/09/01/lfh_20180901.mp3" length="114243722" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - August 25, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - August 25, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/08/25/lfh_20180825.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/08/25/lfh_20180825.mp3" length="114248316" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - August 18, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - August 18, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/08/18/lfh_20180818.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/08/18/lfh_20180818.mp3" length="114243719" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - August 11, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - August 11, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/08/11/lfh_20180811.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/08/11/lfh_20180811.mp3" length="114247898" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - August  4, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - August  4, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/08/04/lfh_20180804.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/08/04/lfh_20180804.mp3" length="114243719" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - July 28, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - July 28, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/07/28/lfh_20180728.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/07/28/lfh_20180728.mp3" length="114260853" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - July 21, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - July 21, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/07/21/lfh_20180721.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/07/21/lfh_20180721.mp3" length="114243717" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - July 14, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - July 14, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/07/14/lfh_20180714.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/07/14/lfh_20180714.mp3" length="114243717" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - July  7, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - July  7, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/07/07/lfh_20180707.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/07/07/lfh_20180707.mp3" length="114243717" type="audio/mpeg"/>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - June 30, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - June 30, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/06/30/lfh_20180630.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/06/30/lfh_20180630.mp3" length="114242045" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - June 23, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - June 23, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/06/23/lfh_20180623.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/06/23/lfh_20180623.mp3" length="114250822" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - June 16, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - June 16, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/06/16/lfh_20180616.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/06/16/lfh_20180616.mp3" length="114242881" type="audio/mpeg"/>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - June 10, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - June 10, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/06/10/lfh_20180610.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/06/10/lfh_20180610.mp3" length="2431276" type="audio/mpeg"/>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - June  9, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - June  9, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/06/09/lfh_20180609.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/06/09/lfh_20180609.mp3" length="114240791" type="audio/mpeg"/>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - June  2, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - June  2, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/06/02/lfh_20180602.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/06/02/lfh_20180602.mp3" length="114223237" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - May 26, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - May 26, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/05/26/lfh_20180526.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/05/26/lfh_20180526.mp3" length="114243298" type="audio/mpeg"/>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - May 19, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - May 19, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/05/19/lfh_20180519.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/05/19/lfh_20180519.mp3" length="114254583" type="audio/mpeg"/>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here 27 - May 13, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here 27 - May 13, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/05/13/lfh_20180513.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/05/13/lfh_20180513.mp3" length="3362491" type="audio/mpeg"/>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - May 12, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - May 12, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/05/12/lfh_20180512.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/05/12/lfh_20180512.mp3" length="114243716" type="audio/mpeg"/>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - May  5, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - May  5, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/05/05/lfh_20180505.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/05/05/lfh_20180505.mp3" length="114255837" type="audio/mpeg"/>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - April 28, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - April 28, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/04/28/lfh_20180428.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/04/28/lfh_20180428.mp3" length="114235777" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - April 24, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - April 24, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/04/24/lfh_20180424.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/04/24/lfh_20180424.mp3" length="1987822" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - April 22, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - April 22, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/04/22/lfh_20180422.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/04/22/lfh_20180422.mp3" length="4259848" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - April 21, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - April 21, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/04/21/lfh_20180421.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/04/21/lfh_20180421.mp3" length="114240374" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - April 16, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - April 16, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/04/16/lfh_20180416.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/04/16/lfh_20180416.mp3" length="114249987" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - April 14, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - April 14, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/04/14/lfh_20180414.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/04/14/lfh_20180414.mp3" length="117128054" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - April  8, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - April  8, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/04/08/lfh_20180408.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/04/08/lfh_20180408.mp3" length="114222402" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - March 31, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - March 31, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/03/31/lfh_20180331.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/03/31/lfh_20180331.mp3" length="114243718" type="audio/mpeg"/>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - March 24, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - March 24, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/03/24/lfh_20180324.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/03/24/lfh_20180324.mp3" length="114229142" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - March 17, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - March 17, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/03/17/lfh_20180317.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/03/17/lfh_20180317.mp3" length="114243771" type="audio/mpeg"/>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - March 10, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - March 10, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/03/10/lfh_20180310.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/03/10/lfh_20180310.mp3" length="114260071" type="audio/mpeg"/>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - March  3, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - March  3, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/03/03/lfh_20180303.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/03/03/lfh_20180303.mp3" length="114244189" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - February 24, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - February 24, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/02/24/lfh_20180224.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/02/24/lfh_20180224.mp3" length="114260074" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live From Here - February 17, 2018</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - February 17, 2018</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2018/02/17/lfh_20180217.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2018/02/17/lfh_20180217.mp3" length="114243774" type="audio/mpeg"/>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
