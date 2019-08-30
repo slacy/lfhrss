@@ -1,4 +1,4 @@
-# Live From Here RSS feed 
+# Live From Here RSS feed
 
 This is an Unofficial full-episode feed of the NPR/APM show "Live From Here"
 hosted by Chris Thile.
@@ -12,6 +12,8 @@ one convenient to use RSS feed.
 
 ## Links
 
-Please also visit [livefromhere.org](http://livefromhere.org) and the [Live From
-Here YouTube Channel](https://www.youtube.com/user/PrairieHomeVideos) for even
-more great content.
+Please also visit [livefromhere.org](http://livefromhere.org), subscribe to the [official
+highlights RSS
+feed](https://feeds.publicradio.org/public_feeds/a-prairie-home-companion-highlights/rss/rss)
+and visit the [Live From Here YouTube Channel](https://www.youtube.com/user/PrairieHomeVideos)
+for even more great content.
