@@ -1,5 +1,6 @@
 #!/bin/bash
 cd /home/slacy/LFH
+source env/bin/activate
 git pull origin master
 python ./lfh_feed.py
 git add -u
