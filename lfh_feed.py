@@ -22,7 +22,8 @@ days = range(1,31+1)
 tz=pytz.utc
 
 # Feed updates up to "3 days ago" so we aren't too aggressive.
-now = datetime.datetime.now(tz) - datetime.timedelta(days=3)
+now = datetime.datetime.now(tz)
+dl_now = now - datetime.timedelta(days=3)
 
 for year in years:
   for month in months:
@@ -32,7 +33,7 @@ for year in years:
       except:
         print("SKIP D/L: BAD DATE ", year, month, day, tz)
         pass
-      if dt > now:
+      if dt > dl_now:
         print("SKIP Future: ", dt)
         continue
       vars = {'year': year, 'month':month, 'day':day}

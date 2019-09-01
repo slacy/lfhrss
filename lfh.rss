@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 01 Sep 2019 21:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 21:06:40 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Guster, Adia Victoria, Matt Braunger</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Guster, Adia Victoria, Matt Braunger</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/08/31/lfh_20190831.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/08/31/lfh_20190831.mp3" length="114243723" type="audio/mpeg"/>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Rebroadcast: The Head and The Heart, Esperanza Spalding, Jamie Lee, Nora McInerny</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: The Head and The Heart, Esperanza Spalding, Jamie Lee, Nora McInerny</description>
