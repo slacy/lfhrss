@@ -21,24 +21,27 @@ days = range(1,31+1)
 # tz=pytz.timezone('US/Pacific')
 tz=pytz.utc
 
+# Feed updates up to "3 days ago" so we aren't too aggressive.
+now = datetime.datetime.now(tz) - datetime.timedelta(days=3)
+
 for year in years:
   for month in months:
     for day in days:
       try:
         dt = datetime.datetime(year,month,day,tzinfo=tz)
       except:
-        print("BAD DATE ", year, month, day, tz)
+        print("SKIP D/L: BAD DATE ", year, month, day, tz)
         pass
-      if dt > datetime.datetime.now(tz):
-        print("Future: ", dt)
+      if dt > now:
+        print("SKIP Future: ", dt)
         continue
       vars = {'year': year, 'month':month, 'day':day}
       cachefile = "cache/{year:04d}_{month:02d}_{day:02d}".format(**vars)
       if os.path.exists(cachefile):
-        print("Cached: {year} {month} {day} ".format(**vars))
+        print("SKIP D/L Cached: {year} {month} {day} ".format(**vars))
         continue
       if good_count >= max_download:
-        print("skip: {year} {month} {day} ".format(**vars))
+        print("SKIP MAX COUNT: {year} {month} {day} ".format(**vars))
         break
       url = "https://download.stream.publicradio.org/livefromhere/{year:04d}/{month:02d}/{day:02d}/lfh_{year:04d}{month:02d}{day:02d}.mp3".format(**vars)
       r = http.request('HEAD', url)
@@ -84,7 +87,7 @@ for year in years:
         continue
       s = os.path.getsize(cachefile)
       if s < 1000:
-        print("Too small: ", cachefile)
+        print("SKIP Too small: ", cachefile)
         continue
 
       audiofile = eyed3.load(cachefile)
@@ -95,10 +98,10 @@ for year in years:
       try:
         dt = datetime.datetime(year,month,day,tzinfo=tz)
       except:
-        print( "BAD DATE", year, month, day, tz)
+        print( "SKIP BAD DATE", year, month, day, tz)
         continue
-      if dt > datetime.datetime.now(tz):
-        print("Future:", dt)
+      if dt > now:
+        print("SKIP Future:", dt)
         continue
       fe = fg.add_entry()
       fe.id(url)
