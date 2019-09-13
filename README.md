@@ -10,6 +10,8 @@ this feed.
 This is nothing more than gathering a collection of existing audio files into
 one convenient to use RSS feed.
 
+[Live From Here Full Episode RSS feed](https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss)
+
 ## Links
 
 Please also visit [livefromhere.org](http://livefromhere.org), subscribe to the [official
