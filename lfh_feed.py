@@ -23,7 +23,7 @@ tz=pytz.utc
 
 # Feed updates up to "3 days ago" so we aren't too aggressive.
 now = datetime.datetime.now(tz)
-dl_now = now - datetime.timedelta(days=3)
+dl_now = now - datetime.timedelta(days=2)
 
 for year in years:
   for month in months:
