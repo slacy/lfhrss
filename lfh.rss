@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 29 Sep 2019 08:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 08:00:37 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Dawes, Joseph, Becca Stevens, John Cameron Mitchell, Ann Patchett, Tom Papa</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Dawes, Joseph, Becca Stevens, John Cameron Mitchell, Ann Patchett, Tom Papa</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/09/28/lfh_20190928.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/09/28/lfh_20190928.mp3" length="115379775" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Tallest Man on Earth, Zakir Hussain with Ganesh Rajagopalan, Gaby Moreno, Lulu Miller &amp; Tom Papa</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / The Tallest Man on Earth, Zakir Hussain with Ganesh Rajagopalan, Gaby Moreno, Lulu Miller &amp; Tom Papa</description>
