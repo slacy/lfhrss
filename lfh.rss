@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 06 Oct 2019 08:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2019 08:00:37 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Rebroadcast: Bruce Hornsby, The Milk Carton Kids, Mike Yard &amp; Sara Watkins</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: Bruce Hornsby, The Milk Carton Kids, Mike Yard &amp; Sara Watkins</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/10/05/lfh_20191005.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/10/05/lfh_20191005.mp3" length="114243761" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dawes, Joseph, Becca Stevens, John Cameron Mitchell, Ann Patchett, Tom Papa</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Dawes, Joseph, Becca Stevens, John Cameron Mitchell, Ann Patchett, Tom Papa</description>
