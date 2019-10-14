@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 13 Oct 2019 08:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 08:00:37 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Trey Anastasio, the Jazz at Lincoln Center Orchestra with Wynton Marsalis, Sarah Jarosz, Edward Norton, Dulcé Sloan, Tom Papa</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Trey Anastasio, the Jazz at Lincoln Center Orchestra with Wynton Marsalis, Sarah Jarosz, Edward Norton, Dulcé Sloan, Tom Papa</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/10/12/lfh_20191012.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/10/12/lfh_20191012.mp3" length="114245067" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Rebroadcast: Bruce Hornsby, The Milk Carton Kids, Mike Yard &amp; Sara Watkins</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: Bruce Hornsby, The Milk Carton Kids, Mike Yard &amp; Sara Watkins</description>
