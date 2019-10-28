@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 27 Oct 2019 08:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2019 08:00:46 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Mavis Staples, Rachel &amp; Vilray, Janeane Garofalo, Brian Platzer, Rachael Price</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Mavis Staples, Rachel &amp; Vilray, Janeane Garofalo, Brian Platzer, Rachael Price</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/10/26/lfh_20191026.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/10/26/lfh_20191026.mp3" length="114243765" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Grace Potter, J.S. Ondara, The Milk Carton Kids, Aofie O'Donovan &amp; Nore Davis</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Grace Potter, J.S. Ondara, The Milk Carton Kids, Aofie O'Donovan &amp; Nore Davis</description>
