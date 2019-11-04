@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 03 Nov 2019 08:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 09:00:38 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Common, Gregory Alan Isakov, The Fates from Hadestown, Aoife O’Donovan, Serena Brook, Tom Papa.</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Common, Gregory Alan Isakov, The Fates from Hadestown, Aoife O’Donovan, Serena Brook, Tom Papa.</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/11/02/lfh_20191102.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/11/02/lfh_20191102.mp3" length="114260084" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mavis Staples, Rachel &amp; Vilray, Janeane Garofalo, Brian Platzer, Rachael Price</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Mavis Staples, Rachel &amp; Vilray, Janeane Garofalo, Brian Platzer, Rachael Price</description>
