@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 17 Nov 2019 09:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 09:00:37 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>They Might Be Giants, Big Thief, Aoife O'Donovan, the cast of Betrayal, Marina Franklin, DW Gibson</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / They Might Be Giants, Big Thief, Aoife O'Donovan, the cast of Betrayal, Marina Franklin, DW Gibson</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/11/16/lfh_20191116.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/11/16/lfh_20191116.mp3" length="114234172" type="audio/mpeg"/>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>I'm With Her, Tig Notaro and Ben Folds</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / I'm With Her, Tig Notaro and Ben Folds</description>
