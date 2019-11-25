@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 24 Nov 2019 09:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 09:00:38 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Paul Simon, Vagabon, Anais Mitchell, Ron Funches, Ryan Hamilton &amp; Holly Laurent</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Paul Simon, Vagabon, Anais Mitchell, Ron Funches, Ryan Hamilton &amp; Holly Laurent</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/11/23/lfh_20191123.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/11/23/lfh_20191123.mp3" length="114235407" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>They Might Be Giants, Big Thief, Aoife O'Donovan, the cast of Betrayal, Marina Franklin, DW Gibson</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / They Might Be Giants, Big Thief, Aoife O'Donovan, the cast of Betrayal, Marina Franklin, DW Gibson</description>
