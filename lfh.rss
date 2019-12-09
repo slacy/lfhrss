@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 08 Dec 2019 09:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 09:00:29 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Pixies, Black Pumas, Crooked Still, Aoife O'Donovan, Freestyle Love Supreme &amp; Tom Papa</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Pixies, Black Pumas, Crooked Still, Aoife O'Donovan, Freestyle Love Supreme &amp; Tom Papa</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/12/07/lfh_20191207.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/12/07/lfh_20191207.mp3" length="114236667" type="audio/mpeg"/>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Maggie Rogers, Vulfpeck, Sarah Jarosz, Chris Gethard, Tom Papa</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Maggie Rogers, Vulfpeck, Sarah Jarosz, Chris Gethard, Tom Papa</description>
