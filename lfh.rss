@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 15 Dec 2019 09:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2019 09:00:29 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Sara Bareilles, Los Lobos, Sarah Jarosz, Isaac Powell of West Side Story, Maria Bamford &amp; Dave Hill</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Sara Bareilles, Los Lobos, Sarah Jarosz, Isaac Powell of West Side Story, Maria Bamford &amp; Dave Hill</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/12/14/lfh_20191214.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/12/14/lfh_20191214.mp3" length="114946375" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Live From Here - December  8, 2019</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - December  8, 2019</description>
