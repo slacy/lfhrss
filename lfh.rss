@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 22 Dec 2019 09:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 09:00:29 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Rebroadcast: St. Vincent, Jon Batiste, Jim Gaffigan, Sara Watkins &amp; Noam Pikelny</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: St. Vincent, Jon Batiste, Jim Gaffigan, Sara Watkins &amp; Noam Pikelny</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2019/12/21/lfh_20191221.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2019/12/21/lfh_20191221.mp3" length="114975195" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sara Bareilles, Los Lobos, Sarah Jarosz, Isaac Powell of West Side Story, Maria Bamford &amp; Dave Hill</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Sara Bareilles, Los Lobos, Sarah Jarosz, Isaac Powell of West Side Story, Maria Bamford &amp; Dave Hill</description>
