@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 26 Jan 2020 09:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 09:00:29 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Encores &amp; Extras Compilation: Nathaniel Rateliff, Sarah Jarosz, The Sklar Brothers, and more</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Encores &amp; Extras Compilation: Nathaniel Rateliff, Sarah Jarosz, The Sklar Brothers, and more</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2020/01/25/lfh_20200125.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2020/01/25/lfh_20200125.mp3" length="114243779" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Rebroadcast: Ezra Koenig of Vampire Weekend, Natalia Lafourcade, Jake Gyllenhaal, Sarah Jarosz, Matt Braunger &amp; Holly Laurent</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: Ezra Koenig of Vampire Weekend, Natalia Lafourcade, Jake Gyllenhaal, Sarah Jarosz, Matt Braunger &amp; Holly Laurent</description>
