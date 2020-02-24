@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 23 Feb 2020 09:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 09:00:28 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Nathaniel Rateliff, Haley Heynderickx, Aoife O'Donovan, Rachel Syme &amp; Josh Gondelman</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Nathaniel Rateliff, Haley Heynderickx, Aoife O'Donovan, Rachel Syme &amp; Josh Gondelman</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2020/02/22/lfh_20200222.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2020/02/22/lfh_20200222.mp3" length="114255056" type="audio/mpeg"/>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Indigo Girls, Real Estate, Danish String Quartet, Amanda Brown, Ken Burns &amp; Lewis Black</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Indigo Girls, Real Estate, Danish String Quartet, Amanda Brown, Ken Burns &amp; Lewis Black</description>
