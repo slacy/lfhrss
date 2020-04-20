@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 19 Apr 2020 08:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 08:00:30 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Rebroadcast: Common, Gregory Alan Isakov, Aoife O'Donovan, The Fates from Hadestown, Serena Brook &amp; Tom Papa</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: Common, Gregory Alan Isakov, Aoife O'Donovan, The Fates from Hadestown, Serena Brook &amp; Tom Papa</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2020/04/18/lfh_20200418.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2020/04/18/lfh_20200418.mp3" length="114474926" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>#livefromhome with Rachael Price + Taylor Ashton, Louis Cato, Madison Cunningham &amp; More</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / #livefromhome with Rachael Price + Taylor Ashton, Louis Cato, Madison Cunningham &amp; More</description>
