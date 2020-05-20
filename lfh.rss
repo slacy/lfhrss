@@ -12,9 +12,23 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Thu, 07 May 2020 08:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 08:00:37 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Norah Jones, Wilco, Punch Brothers, Madison Cunningham, The Sklar Brothers, Tom Papa &amp; Marion Winik</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Norah Jones, Wilco, Punch Brothers, Madison Cunningham, The Sklar Brothers, Tom Papa &amp; Marion Winik</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2020/05/16/lfh_20200516.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2020/05/16/lfh_20200516.mp3" length="114474917" type="audio/mpeg"/>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rebroadcast: Paul Simon, Vagabon, Anaïs Mitchell, Ron Funches, Ryan Hamilton &amp; Holly Laurent</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: Paul Simon, Vagabon, Anaïs Mitchell, Ron Funches, Ryan Hamilton &amp; Holly Laurent</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2020/05/09/lfh_20200509.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2020/05/09/lfh_20200509.mp3" length="114476583" type="audio/mpeg"/>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Rebroadcast: Common, Gregory Alan Isakov, Aoife O'Donovan, The Fates from Hadestown, Serena Brook &amp; Tom Papa</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: Common, Gregory Alan Isakov, Aoife O'Donovan, The Fates from Hadestown, Serena Brook &amp; Tom Papa</description>
