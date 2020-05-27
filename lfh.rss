@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Mon, 25 May 2020 08:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 08:00:17 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Rebroadcast: Pixies, Black Pumas, Crooked Still, Aoife O'Donovan, Freestyle Love Supreme, Tom Papa</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: Pixies, Black Pumas, Crooked Still, Aoife O'Donovan, Freestyle Love Supreme, Tom Papa</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2020/05/22/lfh_20200522.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2020/05/22/lfh_20200522.mp3" length="114474916" type="audio/mpeg"/>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Norah Jones, Wilco, Punch Brothers, Madison Cunningham, The Sklar Brothers, Tom Papa &amp; Marion Winik</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Norah Jones, Wilco, Punch Brothers, Madison Cunningham, The Sklar Brothers, Tom Papa &amp; Marion Winik</description>
