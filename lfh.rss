@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 07 Jun 2020 08:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 08:00:23 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Rebroadcast: Guest Host Jon Batiste with Emily King, Nick Waterhouse, Rachael Price, Jackie Kashian &amp; Tom Papa</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Rebroadcast: Guest Host Jon Batiste with Emily King, Nick Waterhouse, Rachael Price, Jackie Kashian &amp; Tom Papa</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2020/06/06/lfh_20200606.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2020/06/06/lfh_20200606.mp3" length="114474928" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chicano Batman, Sarah Jarosz, Blake Mills, Aoife O'Donovan, Eve L. Ewing &amp; Tom Papa</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Chicano Batman, Sarah Jarosz, Blake Mills, Aoife O'Donovan, Eve L. Ewing &amp; Tom Papa</description>
