@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 21 Jun 2020 08:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 08:00:18 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Negin Farsad, Death Cab for Cutie, Nore Davis</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Negin Farsad, Death Cab for Cutie, Nore Davis</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2020/06/20/lfh_20200620.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2020/06/20/lfh_20200620.mp3" length="114479460" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Rufus Wainwright, The War And Treaty, Lady Midnight, Hawktail, Becca Stevens, Eve L. Ewing &amp; Lulu Miller</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Rufus Wainwright, The War And Treaty, Lady Midnight, Hawktail, Becca Stevens, Eve L. Ewing &amp; Lulu Miller</description>
