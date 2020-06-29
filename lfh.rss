@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 28 Jun 2020 08:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 08:00:35 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>I'm With Her, Ben Folds &amp; Tig Notaro</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / I'm With Her, Ben Folds &amp; Tig Notaro</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2020/06/27/lfh_20200627.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2020/06/27/lfh_20200627.mp3" length="114482795" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Negin Farsad, Death Cab for Cutie, Nore Davis</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Negin Farsad, Death Cab for Cutie, Nore Davis</description>
