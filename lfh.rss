@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 12 Jul 2020 08:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 08:00:15 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Live From Here Rebroadcast - July 11th 2020</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here Rebroadcast - July 11th 2020</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2020/07/11/lfh_20200711.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2020/07/11/lfh_20200711.mp3" length="114482802" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>I'm With Her, Ben Folds &amp; Tig Notaro</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / I'm With Her, Ben Folds &amp; Tig Notaro</description>
