@@ -12,9 +12,16 @@
       <title>Live From Here (Unofficial Full Episode Feed)</title>
       <link>https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.rss</link>
     </image>
-    <lastBuildDate>Sun, 26 Jul 2020 08:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 08:00:17 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/slacy/lfhrss/master/lfh.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Live From Here - July 25, 2020</title>
+      <description>Live From Here (Full Show) / Live From Here (Full Show) / Live From Here - July 25, 2020</description>
+      <guid isPermaLink="true">https://download.stream.publicradio.org/livefromhere/2020/07/25/lfh_20200725.mp3</guid>
+      <enclosure url="https://download.stream.publicradio.org/livefromhere/2020/07/25/lfh_20200725.mp3" length="114482789" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Live from Here with Chris Thile</title>
       <description>Live From Here (Full Show) / Live From Here (Full Show) / Live from Here with Chris Thile</description>
