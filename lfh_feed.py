@@ -15,7 +15,7 @@ good_count = 0
 max_download = 999999
 chunk_size=128*1024
 
-years = range(2018,2020+1)
+years = range(2017,2020+1)
 months = range(1,12+1)
 days = range(1,31+1)
 # tz=pytz.timezone('US/Pacific')
